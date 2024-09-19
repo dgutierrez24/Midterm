@@ -120,5 +120,5 @@ async def main(message: cl.Message):
     # Send the response back to the user
     await cl.Message(content=response).send()
 
-if __name__ == "__main__":
-    cl.run()
+# if __name__ == "__main__":
+#     cl.run()

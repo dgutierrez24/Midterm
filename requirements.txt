@@ -1,6 +1,17 @@
-chainlit
+chainlit==0.7.700
 langchain
 PyMuPDF
 tiktoken
 openai
 qdrant-client
+
+marshmallow==3.19.0
+dataclasses-json
+multidict==6.0.2
+idna==2.8
+
+python-dotenv==0.21.0
+dataclasses-json==0.5.7
+# Other dependencies with exact versions
+
+

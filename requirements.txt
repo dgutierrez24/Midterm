@@ -1,9 +1,12 @@
-chainlit==0.7.700
+chainlit
 langchain
 PyMuPDF
 tiktoken
 openai
 qdrant-client
+
+langchain-community
+langchain_openai
 
 marshmallow==3.19.0
 dataclasses-json

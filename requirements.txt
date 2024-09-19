@@ -1,0 +1,6 @@
+chainlit
+langchain
+PyMuPDF
+tiktoken
+openai
+qdrant-client
